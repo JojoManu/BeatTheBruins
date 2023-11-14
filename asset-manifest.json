@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BeatTheBruins/static/css/main.9445f42c.css",
+    "main.js": "/BeatTheBruins/static/js/main.6f68c05a.js",
+    "index.html": "/BeatTheBruins/index.html",
+    "main.9445f42c.css.map": "/BeatTheBruins/static/css/main.9445f42c.css.map",
+    "main.6f68c05a.js.map": "/BeatTheBruins/static/js/main.6f68c05a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9445f42c.css",
+    "static/js/main.6f68c05a.js"
+  ]
+}
